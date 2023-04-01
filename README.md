@@ -1,4 +1,4 @@
-<h1 align='center'>All For One</h1>
+<h1 align='center'>Solar system</h1>
  <p align='center'>
   <a href="#sobre-o-projeto">Sobre o Projeto</a> •
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
@@ -7,7 +7,7 @@
   <a href="#contato">Contato</a>
 </p>
 <h1 align='center'>
-  <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F2%2F27%2FTrivia.png&f=1&nofb=1&ipt=e784c1a70318e1a1e0f997ef6a309fea2b2a8c4c6c2a7407608d7af8ced2d07a&ipo=images' width="350" heigth="350"/>
+  <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F5%2FSolar-System-PNG-Free-Download.png&f=1&nofb=1&ipt=823064d653eda0497f64d41f920132f34e7cf9cf52e756b98866ea27f539e8d9&ipo=images' width="350" heigth="350"/>
 </h1>
 
 <h1 align='center'>Sobre o projeto</h1>
