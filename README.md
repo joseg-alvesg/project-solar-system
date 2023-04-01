@@ -11,8 +11,8 @@
 </h1>
 
 <h1 align='center'>Sobre o projeto</h1>
-<p>Trivia é um projeto dessenvolvido durante o curso da Trybe que com objetivo de testar conhecimentos em React gerenciamento de essttado com requisições </p>
-<p>Neste projeto foram desenvolvidas funções capazes de realizar requisições a api star wars, com filtros para realizar buscas por planetas, população e etc... </p>
+<p>Trivia é um projeto dessenvolvido durante o curso da Trybe que com objetivo de testar conhecimentos em React gerenciamento de estado</p>
+<p>Neste projeto foram desenvolvidas funções capazes de exibbir uma lista de planetas com suas respectivas informações </p>
 
 <h1 align='center'>Tecnologias utilizadas</h1>
 <ul>
@@ -35,7 +35,7 @@ $ npm install
 # crie sua branch
 $ git checkout -b nome-da-sua-branch
 
-# Pronto! Agora você já pode executar.
+# Pronto! Agora você já pode executar. 
 ```
 <h1 align='center'>Arquivos Desenvolvidos</h1>
 
